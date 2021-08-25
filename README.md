@@ -1,0 +1,1 @@
+This is a practice project from the Odin Project for DOM features.
